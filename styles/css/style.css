@@ -43,6 +43,7 @@ body {
 	background: linear-gradient(to bottom, transparent, rgba(66, 171, 158, 0.3)), url("../../images/logoWF.png");
 	background-repeat: no-repeat;
 	background-position: center center;
+	//background-size: cover;
 	height: 38em;
 }
 
@@ -346,7 +347,7 @@ input[type="button"] {
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 	display: inline-block;
-	/*    *display: inline;*/
+	*display: inline;
 	/*IE ONLY*/
 	zoom: 1;
 	border: 1px solid #ccc;
@@ -735,7 +736,8 @@ ul.header-nav {
 	MEDIA
 -----------------------------------*/
 
-img.imageResponsive {
+img.imageResponsive,
+{
 	max-width: 100%;
 	height: auto;
 }
@@ -1475,8 +1477,3 @@ ul#progressbar {
 .moreInfoBtn {
 	margin: 3%;
 }
-
-
-/*---------------------------------
-	END hidden code
------------------------------------*/

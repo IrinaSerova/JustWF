@@ -156,13 +156,13 @@ jQuery(document).ready(function ($) {
 	$(".submit").click(function () {
 		return false;
 	});
-	// end login
+	// end login	
+
 	// hidden content
 
 	$('.more-info').hide();
-	//When the user clicks on the button, toogle the paragraph
+	// when the user clicks the button, toogle the paragraph
 	$('.button').click(function () {
 		$('.more-info').slideToggle();
 	});
-	//end hidden content
 }); // end doc ready
