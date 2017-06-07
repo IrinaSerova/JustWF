@@ -9,7 +9,7 @@ The goal of the project is to provide a basic set of components and helper metho
 - supports modern responsive design (mobile first) by default;
 - provides CSS equality for all browsers. Chrome, Firefox, IE, Safari, and more;
 - provides CSS equality for all devices. PC, laptop, tablet, and mobile;
-- Small payload size
+- small payload size
 -  it is free to use. No license is necessary.
 
 Our Web framework can make your life easier and can make some of the decisions for you.  
