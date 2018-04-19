@@ -13,3 +13,4 @@ The goal of the project is to provide a basic set of components and helper metho
 -  it is free to use. No license is necessary.
 
 Our Web framework can make your life easier and can make some of the decisions for you.  
+![picture](images/jf.jpg)
