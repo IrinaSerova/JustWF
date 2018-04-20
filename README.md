@@ -1,6 +1,9 @@
 # JustWF
 > JustWF is a set of HTML5, CSS, and jQuery (javascript) files, layouts, and elements designed to help developers to gain the upper hand in the web projects
-http://justwf.com/
+
+### Extras
+This project published at: [JustWF](http://justwf.com/)
+
 
 The goal of the project is to provide a basic set of components and helper methods that developers can use to build sites that are fast and user-friendly. JustWF is a modern framework and has a lot of  advantages. It  differences itself from other CSS/JS frameworks by focusing on the following features:
 - small and fast;
